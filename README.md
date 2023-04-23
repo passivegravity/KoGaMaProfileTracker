@@ -32,6 +32,8 @@ Simply keep it running in the background and wait for any notifications from web
 
 # 🪐 Preview
 
+![ezgif com-optimize (1)](https://user-images.githubusercontent.com/96681438/233846353-2b02b05c-29be-46d6-8812-6a8e4d2695b8.gif)
+
 
 
 </div>
