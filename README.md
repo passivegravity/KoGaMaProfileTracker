@@ -4,7 +4,7 @@
 # 📻 KoGaMa Profile Tracker 
 Simple Python executable that spies on one chosen profile. 👻
 
-Currently it has only ability to grab description, XP amount, and ranking.
+Currently it has only the ability to grab description, XP amount, and ranking.
 
 ⚠ I am not responsible for any punishment resulting from using this 'software'. 
 
